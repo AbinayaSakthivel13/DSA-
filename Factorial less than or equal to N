@@ -1,7 +1,6 @@
 class Solution {
   public:
     vector<long long> factorialNumbers(long long n) {
-        // Write Your Code here
         vector<long long> res;
         long long fact=1;
         int i=1;
